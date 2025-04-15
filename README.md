@@ -180,7 +180,6 @@ Această placă integrează multiple componente pentru a oferi o soluție comple
 6. **Modelarea 3D**
    - Am importat modelul 3D al PCB-ului în carcasa furnizată.
    - Am desenat bateria și ecranul conform dimensiunilor mecanice din datasheet-uri.
-   - Am prevăzut conectarea directă a bateriei la două test pad-uri de pe placă.
 
 7. **Generarea Fișierelor Finale**
    - Am generat fișierele **Gerber** conform tutorialului oferit.
